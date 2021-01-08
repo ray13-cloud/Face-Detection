@@ -10,6 +10,8 @@ yang harus dibutuhkan:
 
 sisanya tinggal liat aja lewat source code yang saya sertakan.
 
+Selamat Mencoba.. :D
+
 
 saya Belajar lewat video dari
 https://www.youtube.com/ngodein/
